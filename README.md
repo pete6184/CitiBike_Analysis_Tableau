@@ -1,6 +1,10 @@
 # Citi Bike Analytics
 
 ## Requirements
+- The data set for this analysis came from a .csv file downloaded from https://s3.amazonaws.com/tripdata/index.html
+- Next, the data was loaded into a dataframe in Jupyter Notebook and cleaned using pandas
+- Lastly, the data was loaded into Tableau Public where I created the graphs
+
 - To view project visit Tableau Public Link 
 
 https://public.tableau.com/profile/pete.johnson3008#!/
